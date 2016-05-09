@@ -1,3 +1,11 @@
+/*
+Part of state-mac (github.com/hussam-a/state-mac)
+Authors:
+Hussam A. El-Araby (github.com/hussam-a)
+
+Project code and configurations are under the GNU GPL license (state-mac/LICENSE) 
+*/
+
 
 //This class define the simulation (most top level class).
 
