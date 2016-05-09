@@ -13,6 +13,8 @@ Project code and configurations are under the GNU GPL license (state-mac/LICENSE
 
 - C++ source code to compile (state-mac/src)
 
+- Test cases (state-mac/examples)
+
 #Guidelines
 
 - To compile
