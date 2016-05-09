@@ -1,3 +1,11 @@
+/*
+Part of state-mac (github.com/hussam-a/state-mac)
+Authors:
+Hussam A. El-Araby (github.com/hussam-a)
+
+Project code and configurations are under the GNU GPL license (state-mac/LICENSE) 
+*/
+
 
 //This is a global function that removes white space (spaces and new lines) from the start and end of a string.
 //It works by going over the first and last characters of a string and only stops when both are
